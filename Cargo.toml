@@ -1,0 +1,10 @@
+[package]
+name = "libzmq"
+version = "4.2.0"
+authors = ["Marin Atanasov Nikolov <dnaeon@gmail.com>"]
+description = "Low-level bindings to libzmq"
+repository = "https://github.com/dnaeon/rust-libzmq"
+
+[dependencies]
+libc = "*"
+
